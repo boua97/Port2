@@ -40,6 +40,7 @@ h2{
     cursor: pointer;
 }
 nav{
+    background-color: #707a70;
     padding-top: 2.8rem;
     padding-left: var(--padding);
     padding-right: var(--padding);
@@ -263,3 +264,10 @@ h4{
     margin-top: 1rem;
  }
  
+ .foterr{
+    display: flex;
+    justify-content: space-between;
+    align-items: last baseline;
+    margin-top: 5rem;
+
+ }
